@@ -1,5 +1,3 @@
-use core::num;
-
 use rand::random;
 
 const N_NUMBERS: usize = 6;
